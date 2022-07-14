@@ -3,7 +3,7 @@ data:extend
 	{
 		type = "technology",
 		name = "armored-train-turret-wagons",
-		icon = "__Armored-train__/prototype/technology/armored-train-technology-icon.png",
+		icon = "__Armored-train-renai__/prototype/technology/armored-train-technology-icon.png",
 		icon_size = 128,
 		effects =
 		{

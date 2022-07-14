@@ -40,7 +40,7 @@ l_cannon_turret_mk1.gun_animation_render_layer = "higher-object-under"
 local function cannon_turret_extension(inputs)
 return
 {
-	filename = "__Armored-train__/assets/cannon-turret-mk1/sprites/cannon-turret-raising.png",
+	filename = "__Armored-train-renai__/assets/cannon-turret-mk1/sprites/cannon-turret-raising.png",
 	priority = "medium",
 	width = 179,
 	height = 132,
@@ -70,22 +70,22 @@ return
 			stripes =
 			{
 				{
-					filename = "__Armored-train__/assets/cannon-turret-mk1/sprites/cannon-turret-shooting-1.png",
+					filename = "__Armored-train-renai__/assets/cannon-turret-mk1/sprites/cannon-turret-shooting-1.png",
 					width_in_frames = inputs.frame_count or 2,
 					height_in_frames = 16
 				},
 				{
-					filename = "__Armored-train__/assets/cannon-turret-mk1/sprites/cannon-turret-shooting-2.png",
+					filename = "__Armored-train-renai__/assets/cannon-turret-mk1/sprites/cannon-turret-shooting-2.png",
 					width_in_frames = inputs.frame_count or 2,
 					height_in_frames = 16
 				},
 				{
-					filename = "__Armored-train__/assets/cannon-turret-mk1/sprites/cannon-turret-shooting-3.png",
+					filename = "__Armored-train-renai__/assets/cannon-turret-mk1/sprites/cannon-turret-shooting-3.png",
 					width_in_frames = inputs.frame_count or 2,
 					height_in_frames = 16
 				},
 				{
-					filename = "__Armored-train__/assets/cannon-turret-mk1/sprites/cannon-turret-shooting-4.png",
+					filename = "__Armored-train-renai__/assets/cannon-turret-mk1/sprites/cannon-turret-shooting-4.png",
 					width_in_frames = inputs.frame_count or 2,
 					height_in_frames = 16
 				}
@@ -131,7 +131,7 @@ local blank_layers =
 	layers = 
 	{
 		{
-			filename = 	"__Armored-train__/assets/minigun-turret-mk1/fakeTransparent.png",
+			filename = 	"__Armored-train-renai__/assets/minigun-turret-mk1/fakeTransparent.png",
 			direction_count = 1,
 			height = 16,
 			width = 16

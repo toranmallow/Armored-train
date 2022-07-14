@@ -56,7 +56,7 @@ local blank_layers =
 	layers = 
 	{
 		{
-			filename = 	"__Armored-train__/assets/minigun-turret-mk1/fakeTransparent.png",
+			filename = 	"__Armored-train-renai__/assets/minigun-turret-mk1/fakeTransparent.png",
 			direction_count = 1,
 			height = 16,
 			width = 16

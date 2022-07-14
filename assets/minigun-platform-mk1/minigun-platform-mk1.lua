@@ -6,7 +6,7 @@ data:extend
 	{
 		type = "item",
 		name = "minigun-platform-mk1",
-		icon = "__Armored-train__/assets/minigun-platform-mk1/minigun-platform-mk1-icon.png",
+		icon = "__Armored-train-renai__/assets/minigun-platform-mk1/minigun-platform-mk1-icon.png",
 		icon_size = 64, icon_mipmaps = 4,
 		subgroup = "transport",
 		order = "a[train-system]-l[platform_mk1_00]",
@@ -46,7 +46,7 @@ data:extend
 -- Deep copy base data and create new one with custom parametres
 local l_minigun_platform_mk1 = util.table.deepcopy(data.raw["cargo-wagon"]["cargo-wagon"])
 l_minigun_platform_mk1.name = "minigun-platform-mk1"
-l_minigun_platform_mk1.icon = "__Armored-train__/assets/minigun-platform-mk1/minigun-platform-mk1-icon.png"
+l_minigun_platform_mk1.icon = "__Armored-train-renai__/assets/minigun-platform-mk1/minigun-platform-mk1-icon.png"
 l_minigun_platform_mk1.icon_size = 64
 l_minigun_platform_mk1.icon_mipmaps = 4
 -- Inventory
@@ -76,10 +76,10 @@ l_minigun_platform_mk1.pictures =
 			shift = {0.4, -1.25},
 			filenames =
 			{
-				"__Armored-train__/assets/minigun-platform-mk1/sprites/platform-mk1-01.png",
-				"__Armored-train__/assets/minigun-platform-mk1/sprites/platform-mk1-02.png",
-				"__Armored-train__/assets/minigun-platform-mk1/sprites/platform-mk1-03.png",
-				"__Armored-train__/assets/minigun-platform-mk1/sprites/platform-mk1-04.png"
+				"__Armored-train-renai__/assets/minigun-platform-mk1/sprites/platform-mk1-01.png",
+				"__Armored-train-renai__/assets/minigun-platform-mk1/sprites/platform-mk1-02.png",
+				"__Armored-train-renai__/assets/minigun-platform-mk1/sprites/platform-mk1-03.png",
+				"__Armored-train-renai__/assets/minigun-platform-mk1/sprites/platform-mk1-04.png"
 			}
 		}
 	}
@@ -89,14 +89,14 @@ l_minigun_platform_mk1.vertical_doors = nil
 -- Minimap representation
 l_minigun_platform_mk1.minimap_representation =
 {
-	filename = "__Armored-train__/assets/minigun-platform-mk1/minigun-platform-mk1-minimap-representation.png",
+	filename = "__Armored-train-renai__/assets/minigun-platform-mk1/minigun-platform-mk1-minimap-representation.png",
 	flags = {"icon"},
 	size = {20, 40},
 	scale = 0.5
 }
 l_minigun_platform_mk1.selected_minimap_representation =
 {
-	filename = "__Armored-train__/assets/minigun-platform-mk1/minigun-platform-mk1-selected-minimap-representation.png",
+	filename = "__Armored-train-renai__/assets/minigun-platform-mk1/minigun-platform-mk1-selected-minimap-representation.png",
 	flags = {"icon"},
 	size = {20, 40},
 	scale = 0.5
