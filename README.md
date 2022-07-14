@@ -1,4 +1,4 @@
-# Armored-train
+# Armored-train-renai
 
 A fork of [Pandamiami80s](https://mods.factorio.com/user/pandamiami80s)'s [Factorio](https://factorio.com/) Mod [Armored Train (Turret Wagons)](https://mods.factorio.com/mod/Armored-train) to support [Renai Transportation](https://mods.factorio.com/mod/RenaiTransportation)
 
