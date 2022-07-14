@@ -1,3 +1,9 @@
+Version: 0.4.6
+Info:
+	- Attempting to fix "Failed to load mod...does not match any enabled mod" error
+	- Added remote interface "ArmoredTrains" to support Renai Transportation
+
+---------------------------------------------------------------------------------------------------
 Version: 0.4.5
 Info:
 	- Forked from Pandamiami80s's Armored Train Mod v0.4.4
