@@ -1,3 +1,9 @@
+Version: 0.4.5
+Info:
+	- Forked from Pandamiami80s's Armored Train Mod v0.4.4
+	- Added support for Lua API global Variable Viewer (gvv)
+	- Added .scripts/zip_mod.sh from ZwerOxotnik's factorio-example-mod
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.4
 Info:

@@ -1,8 +1,8 @@
 {
-  "name": "Armored-train",
-  "version": "0.4.4",
+  "name": "Armored-train-renai",
+  "version": "0.4.5",
   "factorio_version": "1.1",
-  "title": "Armored Train (Turret Wagons)",
-  "author": "Pandamiami80s",
-  "description": "Turret Wagons and Armored Train (T.W.A.T.)"
+  "title": "Armored Train (Turret Wagons) Updated to support Renai Transportation",
+  "author": "toran.mallow",
+  "description": "Toran's temporary fork of Armored-train to add support for Renai Transportation"
 }
