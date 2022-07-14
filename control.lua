@@ -417,3 +417,14 @@ function remove_if(func, arr)
   end
   return new_array
 end
+
+--------------------------
+--RENAI TRANSPORTATION INTEGRATION
+--------------------------
+
+remote.add_interface("ArmoredTrains",
+{
+    SendTurretList = function()
+        return global.turretPlatformList
+    end
+})
